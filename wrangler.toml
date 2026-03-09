@@ -1,4 +1,4 @@
-name = "fly"
+name = "edgetunnel"
 main = "_worker.js"
 compatibility_date = "2025-11-04"
 keep_vars = true
@@ -6,3 +6,4 @@ keep_vars = true
 [[kv_namespaces]]
 binding = "KV"			#KV绑定名默认不可修改
 id = "7f09f4c1452b4a5699f3a510418836ee"				#KV数据库id
+
